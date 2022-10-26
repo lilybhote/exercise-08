@@ -1,4 +1,4 @@
 #box {
-  background-color: rgba(180,49,36,0.5);
+  background-color: rgba(180,49,36,0.5); border-bottom: 5px solid #222; border: 1px dashed #222
   /* add your properties here */
 }
